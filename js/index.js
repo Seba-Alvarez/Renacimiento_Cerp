@@ -124,6 +124,16 @@ const questions = [
         "Ninguno"
       ],
       correctIndex: 0
+    },
+    {
+      question: "¿Cuál era la visión de Rabelais sobre el desarrollo natural de las pasiones humanas?",
+      options: [
+        "Deben ser reprimidas para alcanzar la virtud",
+        "Deben canalizarse mediante la religión",
+        "Deben ser liberadas para expandirse en plenitud y armonía",
+        "Deben ignorarse porque son irracionales"
+      ],
+      correctIndex: 3
     }
   ];
   

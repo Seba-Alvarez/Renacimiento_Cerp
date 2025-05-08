@@ -133,7 +133,57 @@ const questions = [
         "Deben ser liberadas para expandirse en plenitud y armonía",
         "Deben ignorarse porque son irracionales"
       ],
+      correctIndex: 2
+    },
+    {
+      question: "Según Rabelais, ¿cuál era la fórmula útil que debía seguir el maestro en la educación?",
+     options: [
+        "Enseñar solamente a través del método científico",
+        "Volver a la antigüedad pero permanecer fiel a la naturaleza",
+        "Priorizar la disciplina militar en la formación",
+        "Transmitir únicamente conocimientos religiosos"
+      ],
+      correctIndex: 1
+    },
+    {
+      question: "¿Qué objetivo principal perseguía Montaigne al estudiarse a sí mismo?",
+     options: [
+        "Conocer la naturaleza humana",
+        "Encontrar su vocación profesional",
+        "Desarrollar una filosofía política",
+        "Rechazar toda forma de conocimiento clásico"
+      ],
+      correctIndex: 0
+    },
+    {
+      question: "¿Qué buscaba Montaigne con su propuesta educativa?",
+     options: [
+        "Alumnos obedientes y religiosos",
+        "Especialización técnica en áreas concretas",
+        "Repetición de contenidos clásicos sin crítica",
+        "Formar un espíritu ágil, crítico y racional"
+      ],
       correctIndex: 3
+    },
+    {
+      question: "¿Qué frase en latín se encontraba en la fachada de la Casa Giocosa?",
+     options: [
+        "Venid, oh niños, aquí se instruye y se atormenta",
+        "Venid, oh niños, aquí se instruye, no se atormenta",
+        "Venid, oh niños, aquí se instruye",
+        "Venid, oh niños, aquí se atormenta"
+      ],
+      correctIndex: 1
+    },
+    {
+      question: "¿Qué carácter tenía la educación impartida por Vittorino en la Casa Giocosa?",
+     options: [
+        "Religiosa y dogmática",
+        "Enciclopédica y adaptada a cada alumno",
+        "Exclusivamente física y competitiva",
+        "Limitada a las clases altas y nobles"
+      ],
+      correctIndex: 1
     }
   ];
   

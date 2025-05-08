@@ -259,6 +259,33 @@ body {
     background-color: #0056b3;
   }
   
+  #goToPage6Btn {
+    position: fixed;
+    bottom: 50%;
+    transform: translateY(50%);
+    padding: 10px 15px;
+    font-size: 24px;
+    cursor: pointer;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: background-color 0.3s;
+  }
+  
+  #goToPage6Btn:hover {
+    background-color: #0056b3;
+  }
+  
+  #goToPage6Btn.left {
+    left: 20px;
+  }
+  
+  #goToPage6Btn.right {
+    right: 20px;
+  }
+
   /* #endregion */
 
 /* #region pag1 a 4 */

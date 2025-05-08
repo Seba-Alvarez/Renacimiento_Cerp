@@ -66,6 +66,13 @@ if (goToPage5Btn) {
   });
 }
 
+const goToPage6Btn = document.getElementById('goToPage6Btn');
+if (goToPage6Btn) {
+  goToPage6Btn.addEventListener('click', function () {
+    window.location.href = '../html/pagina6.html';
+  });
+}
+
 // #endregion
 
 // #region Jueguito
